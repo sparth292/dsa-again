@@ -29,4 +29,5 @@
 |  |
 | ------- |
 | [3210-find-the-encrypted-string](https://github.com/sparth292/dsa-again/tree/master/3210-find-the-encrypted-string) |
+| [3330-find-the-original-typed-string-i](https://github.com/sparth292/dsa-again/tree/master/3330-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
