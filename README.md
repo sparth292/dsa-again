@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sparth292/dsa-again/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/sparth292/dsa-again/tree/master/0074-search-a-2d-matrix) |
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
 ## Enumeration
 |  |
@@ -30,4 +31,12 @@
 | ------- |
 | [3210-find-the-encrypted-string](https://github.com/sparth292/dsa-again/tree/master/3210-find-the-encrypted-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/sparth292/dsa-again/tree/master/3330-find-the-original-typed-string-i) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sparth292/dsa-again/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sparth292/dsa-again/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
