@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sparth292/dsa-again/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [3210-find-the-encrypted-string](https://github.com/sparth292/dsa-again/tree/master/3210-find-the-encrypted-string) |
 <!---LeetCode Topics End-->
