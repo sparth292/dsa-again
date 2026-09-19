@@ -21,6 +21,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sparth292/dsa-again/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sparth292/dsa-again/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sparth292/dsa-again/tree/master/0155-min-stack) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sparth292/dsa-again/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
