@@ -11,6 +11,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sparth292/dsa-again/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sparth292/dsa-again/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
 ## Enumeration
@@ -86,6 +87,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sparth292/dsa-again/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sparth292/dsa-again/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
