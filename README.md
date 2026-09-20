@@ -43,6 +43,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sparth292/dsa-again/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3210-find-the-encrypted-string](https://github.com/sparth292/dsa-again/tree/master/3210-find-the-encrypted-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/sparth292/dsa-again/tree/master/3330-find-the-original-typed-string-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/sparth292/dsa-again/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +105,5 @@
 | ------- |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/sparth292/dsa-again/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
