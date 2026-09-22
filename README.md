@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/sparth292/dsa-again/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/sparth292/dsa-again/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sparth292/dsa-again/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sparth292/dsa-again/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
@@ -68,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sparth292/dsa-again/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
