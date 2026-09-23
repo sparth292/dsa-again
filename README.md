@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
+| [1480-running-sum-of-1d-array](https://github.com/sparth292/dsa-again/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sparth292/dsa-again/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
@@ -147,5 +148,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sparth292/dsa-again/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
