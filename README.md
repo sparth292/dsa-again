@@ -42,6 +42,7 @@
 | [0011-container-with-most-water](https://github.com/sparth292/dsa-again/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sparth292/dsa-again/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -51,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sparth292/dsa-again/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sparth292/dsa-again/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
