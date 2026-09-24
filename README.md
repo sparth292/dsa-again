@@ -41,6 +41,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sparth292/dsa-again/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sparth292/dsa-again/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sparth292/dsa-again/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
@@ -52,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/sparth292/dsa-again/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
