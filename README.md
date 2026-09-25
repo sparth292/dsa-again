@@ -58,6 +58,7 @@
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sparth292/dsa-again/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sparth292/dsa-again/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/sparth292/dsa-again/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sparth292/dsa-again/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sparth292/dsa-again/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
+| [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sparth292/dsa-again/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Quicksort
 |  |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
+| [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sparth292/dsa-again/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
@@ -123,6 +126,7 @@
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sparth292/dsa-again/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 | [1544-make-the-string-great](https://github.com/sparth292/dsa-again/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/sparth292/dsa-again/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -157,4 +161,12 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sparth292/dsa-again/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
